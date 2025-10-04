@@ -641,7 +641,7 @@
 
 /* Efeito de pulsação */
 .whatsapp-float.pulse {
-    animation: pulse 2s infinite;
+    animation: pulse 5s infinite;
 }
 
 @keyframes pulse {
@@ -689,7 +689,7 @@
 
 /* Efeito de pulsação para o botão de ligação */
 .phone-float.pulse {
-    animation: pulse-blue 2s infinite;
+    animation: pulse-blue 5s infinite;
 }
 
 @keyframes pulse-blue {
